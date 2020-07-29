@@ -34,7 +34,18 @@ Run
 
 Supported platforms
 -------------------
+* 6300-CX
+* 6310-DX
+* 6330-MX
+* 6350-SR
+* EX12
+* EX15
+* TX54
+* TX64
+* IX10
+* IX14
 * IX15
+* IX20
 
 License
 -------
